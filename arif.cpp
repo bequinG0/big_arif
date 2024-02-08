@@ -595,5 +595,5 @@ istream& operator>>(istream &in, Big_Data& val1)
 
 int main()
 {
-    //write something... 
+    //write something...NQ202413818796574849101715109262705109421809
 }
